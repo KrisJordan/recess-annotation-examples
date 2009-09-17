@@ -1,0 +1,3 @@
+[submodule "./edge"]
+	path = ./edge
+	url = git://github.com/recess/recess.git
